@@ -12,4 +12,4 @@ The models are data, so there is nothing to build.
 
 ## Licence
 
-There is no repository-wide licence file. Each model is under the licence its JSON record names.
+CC BY 4.0. See [LICENSE](LICENSE). Each model is under the licence its JSON record names.
